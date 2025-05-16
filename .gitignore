@@ -1,0 +1,5 @@
+__pycache__/
+
+.env (if you use environment variables)
+
+chromedriver.exe (optional, if you want users to download it directly)
